@@ -5,7 +5,6 @@
   "editor.fontSize": 14,
   "editor.lineHeight": 23,
   "editor.fontLigatures": true,
-  
   "files.exclude": {
     "**/.git": true,
     "**/.svn": true,
@@ -107,7 +106,7 @@
     "*.ipynb": "jupyter-notebook"
   },
   "security.workspace.trust.untrustedFiles": "open",
-"workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "material-icon-theme",
   "notebook.cellToolbarLocation": {
     "default": "right",
     "jupyter-notebook": "left"
@@ -115,4 +114,11 @@
   "editor.inlineSuggest.enabled": true,
   "workbench.colorTheme": "Cyberpunk",
   "git.autofetch": true,
+  "workbench.tree.indent": 15,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#FFD700"
+  },
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on"
 }
