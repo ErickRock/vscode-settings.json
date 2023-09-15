@@ -1,4 +1,18 @@
 {
+  "workbench.colorTheme": "Cyberpunk",
+  "workbench.iconTheme": "vscode-great-icons",
+  "git.autofetch": true,
+  "tabnine.experimentalAutoImports": true,
+  "tabnine.receiveBetaChannelUpdates": true,
+  "cody.experimental.chatPredictions": true,
+  "cody.experimental.editorTitleCommandIcon": true,
+  "cody.experimental.commandLenses": true,
+  "redhat.telemetry.enabled": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "security.workspace.trust.untrustedFiles": "open",
   "editor.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "terminal.integrated.fontSize": 12,
   "editor.tabSize": 1,
@@ -105,15 +119,11 @@
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter-notebook"
   },
-  "security.workspace.trust.untrustedFiles": "open",
-  "workbench.iconTheme": "material-icon-theme",
   "notebook.cellToolbarLocation": {
     "default": "right",
     "jupyter-notebook": "left"
   },
   "editor.inlineSuggest.enabled": true,
-  "workbench.colorTheme": "Cyberpunk",
-  "git.autofetch": true,
   "workbench.tree.indent": 15,
   "workbench.tree.renderIndentGuides": "always",
   "workbench.colorCustomizations": {
