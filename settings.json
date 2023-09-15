@@ -62,8 +62,7 @@
   "gitlens.codeLens.authors.enabled": false,
   "gitlens.codeLens.enabled": false,
   "git.enableSmartCommit": true,
-  //Se estiver usando wsl2 com zsh, descomente a linha abaixo
-  //"terminal.integrated.shell.linux": "/bin/zsh",
+  "terminal.integrated.shell.linux": "/bin/zsh",
   "liveshare.featureSet": "insiders",
   "typescript.tsserver.log": "verbose",
   "javascript.suggest.autoImports": true,
